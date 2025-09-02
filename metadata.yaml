@@ -1,3 +1,6 @@
 ---
 homepage: "https://www.privacybee.io"
+documentation: "https://privacybee.freshdesk.com/support/solutions"
 versions:
+  - sha: fef306e18efe77c5123b892f9124c95ec20b72de
+    changeNotes: "initial release"
