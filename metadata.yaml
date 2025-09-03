@@ -2,5 +2,7 @@
 homepage: "https://www.privacybee.io"
 documentation: "https://privacybee.freshdesk.com/support/solutions"
 versions:
+  - sha: d74f5a1f77449b94ead86ec54317caa3e8102a75
+    changeNotes: "update metadata"
   - sha: fef306e18efe77c5123b892f9124c95ec20b72de
     changeNotes: "initial release"
