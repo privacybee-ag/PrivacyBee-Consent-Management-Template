@@ -1,6 +1,6 @@
 ---
 homepage: "https://www.privacybee.io"
-documentation: "https://privacybee.freshdesk.com/support/solutions"
+documentation: "https://privacybee.freshdesk.com/a/solutions/articles/103000363658"
 versions:
   - sha: d74f5a1f77449b94ead86ec54317caa3e8102a75
     changeNotes: "update metadata"
