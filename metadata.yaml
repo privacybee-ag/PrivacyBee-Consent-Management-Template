@@ -2,6 +2,8 @@
 homepage: "https://www.privacybee.io"
 documentation: "https://privacybee.freshdesk.com/a/solutions/articles/103000363658"
 versions:
+  - sha: 401eaf92bdde71c221b11a63fb10326a489b6e8f
+    changeNotes: "add tos to template"
   - sha: 67a4dd38c146d4021ac77d057f06254df2aa793d
     changeNotes: "update variable naming"
   - sha: d74f5a1f77449b94ead86ec54317caa3e8102a75
