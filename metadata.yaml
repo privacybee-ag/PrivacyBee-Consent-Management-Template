@@ -2,6 +2,8 @@
 homepage: "https://www.privacybee.io"
 documentation: "https://privacybee.freshdesk.com/a/solutions/articles/103000363658"
 versions:
+  - sha: 67a4dd38c146d4021ac77d057f06254df2aa793d
+    changeNotes: "update variable naming"
   - sha: d74f5a1f77449b94ead86ec54317caa3e8102a75
     changeNotes: "update metadata"
   - sha: fef306e18efe77c5123b892f9124c95ec20b72de
