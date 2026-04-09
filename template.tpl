@@ -198,7 +198,6 @@ log('privacybee: Setting banner config');
 const bannerConfig = {
   websiteId: websiteId,
   apiEndpoint: 'https://app.privacybee.io',
-  debug: true,
 };
 setInWindow('privacybeeCookieBannerConfig', bannerConfig);
 log('privacybee: Banner config set:', bannerConfig);
